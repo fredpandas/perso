@@ -4,5 +4,5 @@
 <br>
 <b>Lien pour exécuter ces notebooks dans mybinder :</b>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredpandas/Mercator/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredpandas/perso/HEAD)
 <br>
