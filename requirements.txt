@@ -6,6 +6,5 @@ folium
 pyroutelib3
 sympy
 ipywidgets
-pandas
 seaborn
 
